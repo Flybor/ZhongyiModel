@@ -4466,24 +4466,25 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:50px;
   height:16px;
 }
 #u4592 {
   position:absolute;
-  left:457px;
+  left:464px;
   top:176px;
-  width:57px;
+  width:50px;
   height:16px;
   font-size:14px;
   color:#5E5E5E;
+  text-align:right;
 }
 #u4593 {
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
-  white-space:nowrap;
+  width:50px;
+  word-wrap:break-word;
 }
 #u4594 {
   position:absolute;
